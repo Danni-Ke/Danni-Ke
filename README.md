@@ -8,20 +8,15 @@ I’m **Danni Ke | 莲梦逐码 (LotusCoder)**
 
 - 🔭 I’m currently working on [MemoOrb](https://github.com/Danni-Ke/MemoOrb)  
   *A personal Book RAG Assistant — multi-format ingestion & citation-based answers.*
-
 - 🌱 I’m currently learning **Node.js, LangChain, and Quant trading strategies**  
-
 - 👯 I’m looking to collaborate on **AI assistants, fullstack projects, and creative side apps**  
-
 - 🤔 I’m interested in **RAG systems, AI x psychology tools, and digital nomad workflows**  
-
 - 💬 Ask me about **AI integration, project design, or indie dev lifestyle**  
-
 - 📫 How to reach me: [Twitter](https://x.com/LotusCoder) | [GitHub](https://github.com/Danni-Ke)  
-
 - 😄 Pronouns: they/them  
-
-- ⚡ Fun fact: I blend coding with mysticism — building Tarot & 六爻 apps alongside AI tools.  
+- ⚡ Fun fact: Certified 500px/wireStock photographer 📸  
+- ⚡ Neurodivergent (ADHD + ASD) — I turn challenges into creativity 🌿
+- ⚡ My AI music works are published under the name **Devan Kross**, available on major platforms 🎵
 
 ---
 
@@ -34,12 +29,14 @@ I’m **Danni Ke | 莲梦逐码 (LotusCoder)**
 - **Automation & Ops**: Docker, Kubernetes, Git/SVN, n8n, CI/CD basics  
 - **Other**: Git, n8n, Google Adsense/SEO basics
 
+## 📚 Featured Project
+- ✅ [MemoOrb](https://github.com/Danni-Ke/MemoOrb)  
+  *A personal Book RAG Assistant — multi-format ingestion & citation-based answers.*
   
 ## 🛠 App Development Roadmap
 
 ### 🎒 Side Projects (Resume Builders)
-- ✅ [MemoOrb](https://github.com/Danni-Ke/MemoOrb)  
-- 🚧 六爻卦 App (*AI-powered divination, web demo + Adsense*)  
+- 🚧 Six Lines Divination App (*AI-powered divination, web demo + Adsense*)  
 - 🚧 TarotApp (*AI Tarot Assistant, web demo + Adsense*)  
 
 ### 🚀 Startup Projects
