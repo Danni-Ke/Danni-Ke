@@ -33,7 +33,8 @@ I’m **Danni Ke | 莲梦逐码 (LotusCoder)**
 - **Databases**: MySQL, PostgreSQL, Redis, MongoDB, SQLite  
 - **Automation & Ops**: Docker, Kubernetes, Git/SVN, n8n, CI/CD basics  
 - **Other**: Git, n8n, Google Adsense/SEO basics
-- 
+
+  
 ## 🛠 App Development Roadmap
 
 ### 🎒 Side Projects (Resume Builders)
